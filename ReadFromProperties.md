@@ -8,6 +8,7 @@ This module provides a configuration utility to read application-level settings 
 It is designed to support automation frameworks by separating environment and configuration data from test scripts.
 
 🧩 Components Overview:
+
 🔹 1. ReadFromProperties (Configuration Utility Class):
 This utility class is responsible for reading key-value pairs from a .properties file.
 
