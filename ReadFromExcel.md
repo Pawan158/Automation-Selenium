@@ -1,7 +1,7 @@
 📌 Project Summary: Excel Data-Driven Testing Utility (Apache POI + TestNG):
 FileNames: 
 1) ReadFromExcel.java
-2) ReadExcel
+2) ReadExcel.java
 
 This project demonstrates data-driven testing (DDT) in Selenium/TestNG by reading test data from an Excel (.xlsx) file using Apache POI.
 It separates test data handling from test execution logic, following real-world automation framework practices.
