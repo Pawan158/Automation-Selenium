@@ -5,7 +5,8 @@ FileName: 1) ReadFromDataProvider.java
 This module demonstrates data-driven testing using TestNG’s @DataProvider annotation combined with Excel data reading via Apache POI.
 It enables the same test case to run multiple times with different input data, improving test coverage and reusability.
 
-🧩 Components Overview
+🧩 Components Overview:
+
 🔹 1. DataProvider Method – orangeLogin()
 
 - Reads multiple username and password combinations from an Excel (.xlsx) file
