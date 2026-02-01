@@ -1,12 +1,12 @@
-📌 Project Summary: Excel Data-Driven Testing Utility (Apache POI + TestNG)
+📌 Project Summary: Excel Data-Driven Testing Utility (Apache POI + TestNG):
 
 This project demonstrates data-driven testing (DDT) in Selenium/TestNG by reading test data from an Excel (.xlsx) file using Apache POI.
 It separates test data handling from test execution logic, following real-world automation framework practices.
 
-🧩 Components Overview
-🔹 1. ReadFromExcel (File Utility Class)
+🧩 Components Overview:
 
-This class acts as a reusable Excel utility, responsible for fetching test data from an Excel file.
+🔹 1. ReadFromExcel (File Utility Class):
+- This class acts as a reusable Excel utility, responsible for fetching test data from an Excel file.
 
 Features:
 1) Reads single cell data using sheet name, row, and column
@@ -18,8 +18,8 @@ Key Methods:
 1) single(String sheet, int row, int column) → Used to fetch individual values like usernames, passwords, URLs
 2) multiple(String sheet) → Used to fetch bulk test data for multiple test executions
 
-🔹 2. ReadExcel (Test Class)
-This class demonstrates how to consume Excel data using the utility methods.
+🔹 2. ReadExcel (Test Class):
+- This class demonstrates how to consume Excel data using the utility methods.
 
 Test Scenarios Covered:
 1) Reads individual username/password combinations using single()
