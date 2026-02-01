@@ -1,4 +1,4 @@
-Project Summary: Admin User Creation Automation – OrangeHRM
+Project Summary: Admin User Creation Automation – OrangeHRM (FileName: Admin_OrangeHRM_Assignment.java)
 
 This project automates the Admin user creation functionality of the OrangeHRM Open Source application using Selenium WebDriver with Java and TestNG.
 The test script performs an end-to-end flow starting from application launch and login, navigating to the Admin module, and adding a new system user by interacting with dropdowns, auto-suggestion fields, and form inputs using keyboard actions.
